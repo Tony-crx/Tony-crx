@@ -13,6 +13,7 @@ To make a cheap, secure, efficient ecosystem.
 
 ## My plan 2026–2028
 
+- [] bsd
 - [] 8-bit CPU with discrete transistors
 - [] GPU from scratch
 - [] My own game engine
