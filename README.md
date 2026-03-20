@@ -23,17 +23,17 @@ To make a cheap, secure, efficient ecosystem.
 
 ## My plan 2026–2028
 
-- [] bsd
-- [] 8-bit CPU with discrete transistors
-- [] GPU from scratch
-- [] My own game engine
-- [] LLM targeting 1B parameters
+-  bsd
+-  8-bit CPU with discrete transistors
+-  GPU from scratch
+-  My own game engine
+-  LLM targeting 1B parameters
 - [x] Core backup
-- [] My own smartphone using RK3588 SoC
+-  My own smartphone using RK3588 SoC
 - [x] Direct local file transfer
 - [Never] Have a girlfriend
-- [] Build a social media app
-- [] Buy a developer account
+-  Build a social media app
+-  Buy a developer account
 
 ## My other social media 🗺
 
