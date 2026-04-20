@@ -31,7 +31,6 @@ To make a cheap, secure, efficient ecosystem.
 - [x] Core backup
 -  My own smartphone using RK3588 SoC
 - [x] Direct local file transfer
-- [Never] Have a girlfriend
 -  Build a social media app
 -  Buy a developer account
 
