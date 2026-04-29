@@ -4,12 +4,13 @@
 
 ## About me
 
-📰 Hi everyone — **I'm Tony**. I like doing anything and I also like sweet cakes or desserts.
+📰 Hi everyone — **I'm Tony** or ▇▇▇▇. I like doing anything and I also like sweet cakes or desserts.
 
 I don't expect everyone to read all of this, but thanks for clicking my profile!
  <details>
    <summary>idk</summary>
-   
+   - base in indonesia.
+   - in the pool/csm
     
    - i treat llm like my patner
    - i believe eficiency is a way to go deeper
